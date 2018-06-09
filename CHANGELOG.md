@@ -1,7 +1,5 @@
-# Change Log
-All notable changes to the "text2mkdir" extension will be documented in this file.
+# Changelog
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## Version 0.0.1
 
-## [Unreleased]
 - Initial release
